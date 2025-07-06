@@ -5,7 +5,6 @@ if config_env() == :prod do
   secret_key_base = System.get_env("SECRET_KEY_BASE") || raise ("No SECRET_KEY_BASE config.")
   api_key_base = System.get_env("API_KEY_GEMINI") || raise ("No API_KEY_GEMINI config.")
   url_gemini = System.get_env("URL_GEMINI") || raise ("No URL_GEMINI config.")
-  gemini_crontab = System.get_env("GEMINI_CRONTAB") || raise ("No GEMINI_CRONTAB config.")
   allow_check_origin = System.get_env("ALLOW_CHECK_ORIGIN") || raise ("No ALLOW_CHECK_ORIGIN config.")
 
   config :tuvi, Tuvi.Repo,
@@ -24,7 +23,6 @@ if config_env() == :prod do
 
   config :tuvi,
     env: config_env(),
-    API_KEY_GEMINI: "AIzaSyA_R4-EgM1mDZXkXkdFXEdFUjXNFGuGMG4",
-    URL_GEMINI: "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=",
-    GEMINI_CRONTAB: "* 4 * * *"
+    API_KEY_GEMINI: api_key_base,
+    URL_GEMINI: url_gemini
 end
