@@ -1,0 +1,1092 @@
+[
+  {
+    "name_en": "Aries",
+    "ten_cung": "Bạch Dương",
+    "khoang_thoi_gian": "21/3 - 19/4",
+    "nguyen_to": "Lửa",
+    "hanh_tinh_chi_tinh": "Sao Hỏa",
+    "bieu_tuong_dai_dien": "Con cừu đực (Ram)",
+    "tom_tat_tinh_cach": [
+        "Năng động, nhiệt huyết, đầy đam mê.",
+        "Thẳng thắn, trung thực và không ngại đối mặt với khó khăn.",
+        "Dễ nóng tính, bốc đồng và thiếu kiên nhẫn.",
+        "Thích cạnh tranh và luôn muốn là người dẫn đầu."
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Quản lý dự án",
+            "Doanh nhân",
+            "Quân sự",
+            "Thể thao",
+            "Marketing"
+        ],
+        "diem_manh": [
+            "Tinh thần lãnh đạo mạnh mẽ",
+            "Sáng tạo và quyết đoán",
+            "Không ngại thử thách mới"
+        ],
+        "diem_yeu": [
+            "Thiếu kiên nhẫn với công việc đòi hỏi sự tỉ mỉ",
+            "Dễ xung đột trong môi trường tập thể",
+            "Thường không kiên trì đến cùng"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Yêu nhanh, cháy bỏng và mãnh liệt.",
+            "Luôn muốn chủ động trong mối quan hệ.",
+            "Thường thiếu kiên nhẫn và dễ chán khi tình yêu không mới mẻ."
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Sư Tử",
+            "Nhân Mã",
+            "Song Tử"
+        ],
+        "khong_phu_hop": [
+            "Ma Kết",
+            "Cự Giải",
+            "Kim Ngưu"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Đau đầu, mất ngủ",
+            "Chấn thương do vận động mạnh",
+            "Căng thẳng thần kinh"
+        ],
+        "loi_khuyen": [
+            "Tập thể dục thường xuyên để giải tỏa năng lượng.",
+            "Giữ chế độ ngủ hợp lý và hạn chế thức khuya.",
+            "Học cách kiểm soát cảm xúc và giảm căng thẳng."
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Can đảm, quyết đoán",
+            "Tự tin và chủ động",
+            "Luôn dẫn đầu trong mọi việc"
+        ],
+        "diem_yeu": [
+            "Nóng vội, bốc đồng",
+            "Dễ nổi giận",
+            "Thiếu kiên nhẫn"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Đỏ",
+            "Cam"
+        ],
+        "da_hop_menh": [
+            "Ruby",
+            "Thạch anh tím",
+            "Carnelian"
+        ],
+        "so_may_man": [
+            1,
+            9
+        ]
+    }
+  },
+  {
+    "name_en": "Taurus", 
+    "ten_cung": "Kim Ngưu",
+    "khoang_thoi_gian": "20/4 - 20/5",
+    "nguyen_to": "Đất",
+    "hanh_tinh_chi_tinh": "Sao Kim",
+    "bieu_tuong_dai_dien": "Con bò (Bull)",
+    "tom_tat_tinh_cach": [
+        "Kiên định, vững vàng và đáng tin cậy.",
+        "Thực tế, yêu cái đẹp và thích sự ổn định.",
+        "Có xu hướng bảo thủ và không thích thay đổi.",
+        "Kiên nhẫn nhưng đôi khi cố chấp."
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Tài chính - ngân hàng",
+            "Nghệ thuật, thiết kế",
+            "Nông nghiệp",
+            "Ẩm thực, nhà hàng",
+            "Quản lý tài sản"
+        ],
+        "diem_manh": [
+            "Chăm chỉ và bền bỉ trong công việc",
+            "Làm việc có kế hoạch và cẩn trọng",
+            "Có gu thẩm mỹ tốt, phù hợp ngành sáng tạo"
+        ],
+        "diem_yeu": [
+            "Khó thích nghi với thay đổi đột ngột",
+            "Dễ trì hoãn khi không có động lực mạnh",
+            "Thiếu sáng tạo trong môi trường năng động"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Yêu chân thành và bền vững.",
+            "Tìm kiếm sự ổn định, an toàn trong mối quan hệ.",
+            "Hơi ghen tuông và có xu hướng chiếm hữu."
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Xử Nữ",
+            "Ma Kết",
+            "Cự Giải"
+        ],
+        "khong_phu_hop": [
+            "Sư Tử",
+            "Bảo Bình",
+            "Nhân Mã"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Vấn đề về cổ họng, tuyến giáp",
+            "Tăng cân, tiêu hóa",
+            "Lười vận động"
+        ],
+        "loi_khuyen": [
+            "Rèn luyện thể dục đều đặn để duy trì cân nặng.",
+            "Ăn uống khoa học và hạn chế đồ ngọt, chất béo.",
+            "Nên kiểm tra sức khỏe định kỳ, đặc biệt là họng."
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Ổn định, chung thủy",
+            "Kiên nhẫn và có trách nhiệm",
+            "Thẩm mỹ tốt và thực tế"
+        ],
+        "diem_yeu": [
+            "Bảo thủ, chậm thích nghi",
+            "Dễ bị lười biếng nếu không có động lực",
+            "Thỉnh thoảng quá cứng đầu"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Xanh lá",
+            "Nâu đất",
+            "Hồng nhạt"
+        ],
+        "da_hop_menh": [
+            "Ngọc lục bảo",
+            "Thạch anh hồng",
+            "Sapphire"
+        ],
+        "so_may_man": [
+            2,
+            6,
+            8
+        ]
+    } 
+  },
+  {
+    "name_en": "Gemini",
+    "ten_cung": "Song Tử",
+    "khoang_thoi_gian": "21/5 - 20/6",
+    "nguyen_to": "Khí",
+    "hanh_tinh_chi_tinh": "Sao Thủy",
+    "bieu_tuong_dai_dien": "Cặp song sinh (Twins)",
+    "tom_tat_tinh_cach": [
+        "Thông minh, nhanh nhạy và hoạt ngôn.",
+        "Thích khám phá, yêu tự do và đa năng.",
+        "Có khả năng giao tiếp và thuyết phục tốt.",
+        "Thay đổi thất thường, thiếu kiên định."
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Báo chí, truyền thông",
+            "Giáo dục, đào tạo",
+            "Marketing, quảng cáo",
+            "Du lịch, hướng dẫn viên",
+            "Công nghệ thông tin"
+        ],
+        "diem_manh": [
+            "Tư duy linh hoạt, xử lý tình huống nhanh",
+            "Khả năng giao tiếp tốt, làm việc nhóm hiệu quả",
+            "Học hỏi nhanh, thích nghi tốt"
+        ],
+        "diem_yeu": [
+            "Thiếu kiên nhẫn, dễ chán",
+            "Không tập trung lâu dài vào một việc",
+            "Hay thay đổi ý định đột ngột"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Yêu bằng lý trí lẫn cảm xúc.",
+            "Thích sự mới mẻ và thú vị trong tình yêu.",
+            "Có xu hướng không ổn định nếu bị gò bó."
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Thiên Bình",
+            "Bảo Bình",
+            "Bạch Dương"
+        ],
+        "khong_phu_hop": [
+            "Xử Nữ",
+            "Ma Kết",
+            "Song Ngư"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Căng thẳng thần kinh",
+            "Vấn đề về hô hấp",
+            "Khó ngủ"
+        ],
+        "loi_khuyen": [
+            "Thư giãn tinh thần qua thiền hoặc du lịch.",
+            "Hạn chế làm việc quá tải và cần ngủ đủ giấc.",
+            "Tập thể dục hít thở để tăng sức đề kháng."
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Thông minh, lanh lợi",
+            "Năng động, đa tài",
+            "Lạc quan, dễ hòa nhập"
+        ],
+        "diem_yeu": [
+            "Thiếu quyết đoán",
+            "Dễ bị phân tâm",
+            "Khó giữ vững cam kết"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Vàng",
+            "Xanh da trời",
+            "Cam nhạt"
+        ],
+        "da_hop_menh": [
+            "Ngọc bích",
+            "Thạch anh trắng",
+            "Citrine"
+        ],
+        "so_may_man": [
+            3,
+            5,
+            9
+        ]
+    }
+  },
+  {
+    "name_en": "Cancer",
+    "ten_cung": "Cự Giải",
+    "khoang_thoi_gian": "21/6 - 22/7",
+    "nguyen_to": "Nước",
+    "hanh_tinh_chi_tinh": "Mặt Trăng",
+    "bieu_tuong_dai_dien": "Con cua",
+    "tom_tat_tinh_cach": [
+        "Tình cảm, nhạy cảm và sâu sắc",
+        "Chăm sóc, tận tụy và hướng về gia đình",
+        "Có trực giác tốt, sống nội tâm",
+        "Dễ bị tổn thương và thất thường về cảm xúc"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Giáo dục",
+            "Chăm sóc sức khỏe",
+            "Nghệ thuật",
+            "Nội trợ",
+            "Nhà tâm lý học"
+        ],
+        "diem_manh": [
+            "Tận tâm, có trách nhiệm",
+            "Hiểu cảm xúc của người khác",
+            "Làm việc chăm chỉ và trung thành"
+        ],
+        "diem_yeu": [
+            "Dễ bị ảnh hưởng bởi cảm xúc",
+            "Khó thích nghi nhanh với thay đổi",
+            "Có xu hướng thu mình khi gặp khó khăn"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Tìm kiếm sự ổn định và an toàn trong tình cảm",
+            "Rất trung thành và lãng mạn",
+            "Luôn đặt gia đình lên hàng đầu"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Thiên Yết",
+            "Song Ngư",
+            "Kim Ngưu"
+        ],
+        "khong_phu_hop": [
+            "Bạch Dương",
+            "Bảo Bình",
+            "Nhân Mã"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Vấn đề về dạ dày và hệ tiêu hóa",
+            "Căng thẳng tâm lý",
+            "Thiếu ngủ"
+        ],
+        "loi_khuyen": [
+            "Giữ chế độ ăn uống đều đặn, hạn chế đồ cay nóng",
+            "Thường xuyên nghỉ ngơi và chăm sóc cảm xúc",
+            "Tập thể dục nhẹ như yoga, đi bộ"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Yêu thương, chu đáo",
+            "Nhạy cảm và tinh tế",
+            "Có khả năng chăm sóc và đồng cảm"
+        ],
+        "diem_yeu": [
+            "Thụ động trong các mối quan hệ",
+            "Khó quên quá khứ",
+            "Hay tự ái, dễ bị tổn thương"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Trắng",
+            "Bạc",
+            "Xanh lam nhạt"
+        ],
+        "da_hop_menh": [
+            "Ngọc trai",
+            "Moonstone",
+            "Thạch anh hồng"
+        ],
+        "so_may_man": [
+            2,
+            7,
+            22
+        ]
+    }
+  },
+  {
+    "name_en": "Leo",
+    "ten_cung": "Sư Tử",
+    "khoang_thoi_gian": "23/7 - 22/8",
+    "nguyen_to": "Lửa",
+    "hanh_tinh_chi_tinh": "Mặt Trời",
+    "bieu_tuong_dai_dien": "Sư tử",
+    "tom_tat_tinh_cach": [
+        "Tự tin, mạnh mẽ và quyến rũ",
+        "Có tố chất lãnh đạo và thích được chú ý",
+        "Nhiệt huyết, hào phóng và trung thành",
+        "Đôi khi bảo thủ và thích kiểm soát"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Diễn viên",
+            "Quản lý",
+            "Kinh doanh",
+            "Lãnh đạo",
+            "Thiết kế thời trang"
+        ],
+        "diem_manh": [
+            "Khả năng lãnh đạo nổi bật",
+            "Sáng tạo, đầy nhiệt huyết",
+            "Biết cách tạo ảnh hưởng"
+        ],
+        "diem_yeu": [
+            "Tự cao, kiêu ngạo",
+            "Khó chấp nhận thất bại",
+            "Dễ bị tổn thương khi không được công nhận"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Tình yêu là niềm đam mê và trung tâm cuộc sống",
+            "Yêu nồng nhiệt, trung thành và muốn được ngưỡng mộ",
+            "Thích cảm giác được kiểm soát trong mối quan hệ"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Bạch Dương",
+            "Nhân Mã",
+            "Thiên Bình"
+        ],
+        "khong_phu_hop": [
+            "Kim Ngưu",
+            "Ma Kết",
+            "Song Ngư"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Tim mạch",
+            "Huyết áp",
+            "Đau lưng do áp lực công việc"
+        ],
+        "loi_khuyen": [
+            "Tránh căng thẳng quá mức",
+            "Tập thể dục đều đặn, đặc biệt là cardio",
+            "Ăn uống điều độ, giảm thức ăn nhiều cholesterol"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Tự tin và quyết đoán",
+            "Trung thành và đầy đam mê",
+            "Sáng tạo và truyền cảm hứng"
+        ],
+        "diem_yeu": [
+            "Bướng bỉnh, thích kiểm soát",
+            "Dễ bị ảnh hưởng bởi lời khen hoặc chỉ trích",
+            "Đôi khi thiếu kiên nhẫn và thấu hiểu"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Vàng",
+            "Cam",
+            "Đỏ"
+        ],
+        "da_hop_menh": [
+            "Hổ phách",
+            "Thạch anh vàng",
+            "Ruby"
+        ],
+        "so_may_man": [
+            1,
+            3,
+            10
+        ]
+    }
+  },
+  {
+    "name_en": "Virgo",
+    "ten_cung": "Xử Nữ",
+    "khoang_thoi_gian": "23/8 - 22/9",
+    "nguyen_to": "Đất",
+    "hanh_tinh_chi_tinh": "Sao Thủy",
+    "bieu_tuong_dai_dien": "Trinh nữ",
+    "tom_tat_tinh_cach": [
+        "Tỉ mỉ, cầu toàn và thực tế",
+        "Thông minh, phân tích tốt và có trách nhiệm",
+        "Kín đáo, dè dặt và khiêm tốn",
+        "Đôi lúc hay lo lắng và quá khắt khe"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Kế toán",
+            "Y tế",
+            "Phân tích dữ liệu",
+            "Giáo viên",
+            "Biên tập viên"
+        ],
+        "diem_manh": [
+            "Cẩn thận và có tổ chức",
+            "Tư duy logic, phân tích sắc bén",
+            "Làm việc có trách nhiệm, kiên nhẫn"
+        ],
+        "diem_yeu": [
+            "Quá cầu toàn",
+            "Dễ lo âu và căng thẳng",
+            "Khó chấp nhận sự không hoàn hảo"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Tình yêu cần sự chân thành và ổn định",
+            "Thích thể hiện qua hành động hơn lời nói",
+            "Cần thời gian để mở lòng và tin tưởng"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Kim Ngưu",
+            "Ma Kết",
+            "Cự Giải"
+        ],
+        "khong_phu_hop": [
+            "Nhân Mã",
+            "Song Tử",
+            "Bạch Dương"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Tiêu hóa",
+            "Rối loạn lo âu",
+            "Đau dạ dày do stress"
+        ],
+        "loi_khuyen": [
+            "Tập yoga hoặc thiền để giảm căng thẳng",
+            "Ăn uống điều độ, hạn chế đồ cay nóng",
+            "Nghỉ ngơi đúng giờ, tránh làm việc quá sức"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Cẩn thận, tinh tế",
+            "Suy nghĩ sâu sắc, phân tích tốt",
+            "Trung thực và đáng tin cậy"
+        ],
+        "diem_yeu": [
+            "Khắt khe với bản thân và người khác",
+            "Dễ căng thẳng, lo lắng",
+            "Khó thư giãn và dễ bị ám ảnh bởi chi tiết"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Xanh lá nhạt",
+            "Nâu",
+            "Trắng"
+        ],
+        "da_hop_menh": [
+            "Ngọc lục bảo",
+            "Thạch anh trắng",
+            "Ngọc trai"
+        ],
+        "so_may_man": [
+            5,
+            14,
+            23
+        ]
+    }
+  },
+  {
+    "name_en": "Libra",
+    "ten_cung": "Thiên Bình",
+    "khoang_thoi_gian": "23/9 - 22/10",
+    "nguyen_to": "Khí",
+    "hanh_tinh_chi_tinh": "Sao Kim",
+    "bieu_tuong_dai_dien": "Cán cân công lý",
+    "tom_tat_tinh_cach": [
+        "Công bằng, yêu hòa bình",
+        "Dễ gần, thân thiện và duyên dáng",
+        "Thẩm mỹ tinh tế, yêu cái đẹp",
+        "Đôi khi thiếu quyết đoán và hay do dự"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Luật sư",
+            "Nhà ngoại giao",
+            "Thiết kế thời trang",
+            "Nghệ thuật",
+            "Tư vấn tâm lý"
+        ],
+        "diem_manh": [
+            "Khéo léo trong giao tiếp",
+            "Khả năng thuyết phục và đàm phán tốt",
+            "Biết giữ cân bằng trong môi trường làm việc"
+        ],
+        "diem_yeu": [
+            "Thiếu quyết đoán",
+            "Dễ bị ảnh hưởng bởi người khác",
+            "Không thích đối đầu, hay tránh né vấn đề"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Yêu sự lãng mạn và tinh tế",
+            "Ưu tiên sự hòa hợp và bình đẳng trong tình yêu",
+            "Thích được chia sẻ và quan tâm lẫn nhau"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Song Tử",
+            "Bảo Bình",
+            "Sư Tử"
+        ],
+        "khong_phu_hop": [
+            "Ma Kết",
+            "Cự Giải",
+            "Xử Nữ"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Vấn đề về thận",
+            "Mất ngủ",
+            "Căng thẳng do thiếu cân bằng"
+        ],
+        "loi_khuyen": [
+            "Giữ lối sống điều độ và nghỉ ngơi hợp lý",
+            "Tham gia các hoạt động giúp cân bằng tâm lý như yoga, thiền",
+            "Uống đủ nước để hỗ trợ chức năng thận"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Công bằng và khách quan",
+            "Khả năng giao tiếp tốt",
+            "Thẩm mỹ cao, yêu cái đẹp"
+        ],
+        "diem_yeu": [
+            "Thiếu kiên định",
+            "Sợ mâu thuẫn",
+            "Dễ bị dao động cảm xúc"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Hồng",
+            "Xanh dương nhạt",
+            "Trắng"
+        ],
+        "da_hop_menh": [
+            "Thạch anh hồng",
+            "Ngọc bích",
+            "Ngọc lam"
+        ],
+        "so_may_man": [
+            6,
+            9,
+            15
+        ]
+    }
+  },
+  {
+    "name_en": "Scorpio",
+    "ten_cung": "Thiên Yết",
+    "khoang_thoi_gian": "23/10 - 21/11",
+    "nguyen_to": "Nước",
+    "hanh_tinh_chi_tinh": "Sao Diêm Vương",
+    "bieu_tuong_dai_dien": "Bò cạp",
+    "tom_tat_tinh_cach": [
+        "Sâu sắc, mạnh mẽ và đầy đam mê",
+        "Bí ẩn, ít khi chia sẻ cảm xúc",
+        "Quyết đoán, kiên cường",
+        "Có xu hướng chiếm hữu và ghen tuông"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Nhà nghiên cứu",
+            "Bác sĩ tâm lý",
+            "Nhà điều tra",
+            "Tài chính - ngân hàng",
+            "Phẫu thuật viên"
+        ],
+        "diem_manh": [
+            "Tập trung cao độ",
+            "Ý chí mạnh mẽ",
+            "Khả năng xử lý tình huống tốt"
+        ],
+        "diem_yeu": [
+            "Dễ bị ám ảnh với mục tiêu",
+            "Khó chia sẻ công việc",
+            "Thích kiểm soát"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Yêu mãnh liệt và sâu sắc",
+            "Luôn tìm kiếm sự trung thành tuyệt đối",
+            "Không dễ mở lòng nhưng khi yêu sẽ hết mình"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Cự Giải",
+            "Song Ngư",
+            "Ma Kết"
+        ],
+        "khong_phu_hop": [
+            "Bảo Bình",
+            "Sư Tử",
+            "Song Tử"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Bệnh về cơ quan sinh dục",
+            "Rối loạn nội tiết",
+            "Tâm lý căng thẳng kéo dài"
+        ],
+        "loi_khuyen": [
+            "Giữ tinh thần lạc quan, tránh căng thẳng",
+            "Tham gia các hoạt động thể thao nhẹ",
+            "Ngủ đủ giấc để cân bằng nội tiết"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Kiên cường, bền bỉ",
+            "Trực giác tốt",
+            "Có khả năng thay đổi và tái sinh mạnh mẽ"
+        ],
+        "diem_yeu": [
+            "Khó tha thứ",
+            "Ích kỷ trong mối quan hệ",
+            "Dễ nghi ngờ"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Đỏ rượu",
+            "Đen",
+            "Tím đậm"
+        ],
+        "da_hop_menh": [
+            "Hắc ngọc",
+            "Thạch anh tím",
+            "Granat"
+        ],
+        "so_may_man": [
+            8,
+            11,
+            21
+        ]
+    }
+  },
+  {
+    "name_en": "Sagittarius",
+    "ten_cung": "Nhân Mã",
+    "khoang_thoi_gian": "22/11 - 21/12",
+    "nguyen_to": "Lửa",
+    "hanh_tinh_chi_tinh": "Sao Mộc",
+    "bieu_tuong_dai_dien": "Cung thủ (nửa người nửa ngựa)",
+    "tom_tat_tinh_cach": [
+        "Lạc quan, yêu đời và tràn đầy năng lượng",
+        "Thích tự do, du lịch và khám phá",
+        "Thẳng thắn, chân thành nhưng đôi khi thiếu tế nhị",
+        "Thông minh, hài hước và ham học hỏi"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Hướng dẫn viên du lịch",
+            "Giáo viên, giảng viên",
+            "Nhà triết học",
+            "Phóng viên, nhà báo",
+            "Marketing, quảng cáo"
+        ],
+        "diem_manh": [
+            "Sáng tạo, linh hoạt",
+            "Thích ứng nhanh với môi trường mới",
+            "Tinh thần cầu tiến cao"
+        ],
+        "diem_yeu": [
+            "Thiếu kiên nhẫn",
+            "Không thích bị ràng buộc",
+            "Dễ bỏ cuộc khi không còn hứng thú"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Yêu tự do và không thích gò bó",
+            "Thường yêu nhanh nhưng cũng dễ thay đổi",
+            "Coi trọng sự trung thực trong mối quan hệ"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Bạch Dương",
+            "Sư Tử",
+            "Bảo Bình"
+        ],
+        "khong_phu_hop": [
+            "Xử Nữ",
+            "Cự Giải",
+            "Kim Ngưu"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Đau lưng",
+            "Vấn đề về gan",
+            "Tai nạn do bất cẩn khi vận động"
+        ],
+        "loi_khuyen": [
+            "Nên rèn luyện thể lực đều đặn",
+            "Hạn chế thức khuya và ăn uống không điều độ",
+            "Tham gia các hoạt động du lịch lành mạnh để giải tỏa stress"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Lạc quan",
+            "Nhiệt huyết",
+            "Tư duy tích cực"
+        ],
+        "diem_yeu": [
+            "Thiếu kiên định",
+            "Dễ chán nản",
+            "Đôi lúc vô tâm"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Tím",
+            "Cam",
+            "Xanh dương"
+        ],
+        "da_hop_menh": [
+            "Ngọc lam",
+            "Topaz",
+            "Thạch anh vàng"
+        ],
+        "so_may_man": [
+            3,
+            7,
+            12
+        ]
+    }
+  },
+  {
+    "name_en": "Capricorn",
+    "ten_cung": "Ma Kết",
+    "khoang_thoi_gian": "22/12 - 19/01",
+    "nguyen_to": "Đất",
+    "hanh_tinh_chi_tinh": "Sao Thổ",
+    "bieu_tuong_dai_dien": "Con dê biển",
+    "tom_tat_tinh_cach": [
+        "Kỷ luật, nghiêm túc và thực tế",
+        "Tham vọng, kiên trì và cầu tiến",
+        "Ít nói, sống nội tâm và thích sự ổn định",
+        "Có tinh thần trách nhiệm cao"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Tài chính, ngân hàng",
+            "Luật sư",
+            "Kỹ sư",
+            "Quản lý doanh nghiệp",
+            "Kiểm toán"
+        ],
+        "diem_manh": [
+            "Kiên định và chăm chỉ",
+            "Có kế hoạch rõ ràng",
+            "Chịu được áp lực công việc"
+        ],
+        "diem_yeu": [
+            "Cứng nhắc",
+            "Thiếu linh hoạt",
+            "Dễ bị áp lực tâm lý"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Coi trọng sự chung thủy và ổn định",
+            "Yêu thận trọng, không vội vàng",
+            "Đặt trách nhiệm lên hàng đầu trong mối quan hệ"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Kim Ngưu",
+            "Xử Nữ",
+            "Song Ngư"
+        ],
+        "khong_phu_hop": [
+            "Bạch Dương",
+            "Song Tử",
+            "Nhân Mã"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Vấn đề về xương khớp",
+            "Đau đầu do căng thẳng",
+            "Mất ngủ"
+        ],
+        "loi_khuyen": [
+            "Dành thời gian nghỉ ngơi hợp lý",
+            "Tập thể dục nhẹ nhàng",
+            "Tránh làm việc quá sức"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Kiên nhẫn",
+            "Tận tâm",
+            "Có trách nhiệm"
+        ],
+        "diem_yeu": [
+            "Quá nghiêm khắc với bản thân",
+            "Khó bộc lộ cảm xúc",
+            "Hay lo xa"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Nâu",
+            "Xám",
+            "Đen"
+        ],
+        "da_hop_menh": [
+            "Hắc ngọc",
+            "Thạch anh khói",
+            "Ngọc bích"
+        ],
+        "so_may_man": [
+            4,
+            8,
+            22
+        ]
+    }
+  },
+  {
+    "name_en": "Aquarius",
+    "ten_cung": "Bảo Bình",
+    "khoang_thoi_gian": "20/01 - 18/02",
+    "nguyen_to": "Khí",
+    "hanh_tinh_chi_tinh": "Sao Thiên Vương",
+    "bieu_tuong_dai_dien": "Người mang nước",
+    "tom_tat_tinh_cach": [
+        "Sáng tạo, độc lập và yêu tự do",
+        "Thông minh, có tư duy đổi mới",
+        "Đôi khi lập dị và khó đoán",
+        "Tôn trọng sự khác biệt và nhân văn"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Công nghệ thông tin",
+            "Nghiên cứu khoa học",
+            "Kỹ sư sáng tạo",
+            "Nghệ sĩ hiện đại",
+            "Tư vấn chiến lược"
+        ],
+        "diem_manh": [
+            "Tư duy đổi mới",
+            "Làm việc độc lập tốt",
+            "Khả năng thích ứng cao"
+        ],
+        "diem_yeu": [
+            "Khó hợp tác lâu dài",
+            "Dễ thay đổi ý định",
+            "Thiếu kiên nhẫn"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Đề cao sự tự do trong tình yêu",
+            "Thích tìm hiểu và khám phá đối phương",
+            "Yêu bằng lý trí nhưng cũng rất sâu sắc"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Song Tử",
+            "Thiên Bình",
+            "Nhân Mã"
+        ],
+        "khong_phu_hop": [
+            "Kim Ngưu",
+            "Cự Giải",
+            "Xử Nữ"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Rối loạn thần kinh",
+            "Huyết áp",
+            "Vấn đề tuần hoàn máu"
+        ],
+        "loi_khuyen": [
+            "Tập thể dục thường xuyên để cải thiện tuần hoàn",
+            "Tránh làm việc quá sức",
+            "Tham gia các hoạt động xã hội để giảm stress"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Sáng tạo",
+            "Nhân ái",
+            "Biết suy nghĩ khác biệt"
+        ],
+        "diem_yeu": [
+            "Lạnh lùng cảm xúc",
+            "Khó gần",
+            "Dễ xa cách nếu không hiểu nhau"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Xanh da trời",
+            "Bạc",
+            "Tím nhạt"
+        ],
+        "da_hop_menh": [
+            "Thạch anh tím",
+            "Ngọc lam",
+            "Hổ phách"
+        ],
+        "so_may_man": [
+            7,
+            11,
+            22
+        ]
+    }
+  },
+  {
+    "name_en": "Pisces",
+     "ten_cung": "Song Ngư",
+    "khoang_thoi_gian": "19/02 - 20/03",
+    "nguyen_to": "Nước",
+    "hanh_tinh_chi_tinh": "Sao Hải Vương",
+    "bieu_tuong_dai_dien": "Hai con cá bơi ngược chiều",
+    "tom_tat_tinh_cach": [
+        "Nhạy cảm và giàu cảm xúc",
+        "Sáng tạo, mơ mộng",
+        "Dễ cảm thông và bao dung",
+        "Thiếu quyết đoán và hay trốn tránh thực tế"
+    ],
+    "su_nghiep": {
+        "nganh_nghe_phu_hop": [
+            "Nghệ thuật (âm nhạc, hội họa, viết lách)",
+            "Tâm lý học",
+            "Chăm sóc sức khỏe",
+            "Từ thiện",
+            "Công việc liên quan đến tâm linh"
+        ],
+        "diem_manh": [
+            "Trí tưởng tượng phong phú",
+            "Biết lắng nghe và cảm thông",
+            "Linh hoạt trong công việc"
+        ],
+        "diem_yeu": [
+            "Thiếu thực tế",
+            "Dễ bị ảnh hưởng bởi môi trường xung quanh",
+            "Khó tập trung vào mục tiêu dài hạn"
+        ]
+    },
+    "tinh_duyen": {
+        "quan_diem_tinh_yeu": [
+            "Yêu bằng cảm xúc chân thành",
+            "Mong muốn sự gắn kết tâm hồn",
+            "Dễ bị tổn thương nếu không được quan tâm"
+        ],
+        "phu_hop_voi_cac_cung": [
+            "Cự Giải",
+            "Bọ Cạp",
+            "Kim Ngưu"
+        ],
+        "khong_phu_hop": [
+            "Song Tử",
+            "Nhân Mã",
+            "Bạch Dương"
+        ]
+    },
+    "suc_khoe": {
+        "van_de_thuong_gap": [
+            "Rối loạn giấc ngủ",
+            "Căng thẳng tinh thần",
+            "Vấn đề về chân, bàn chân"
+        ],
+        "loi_khuyen": [
+            "Ngủ đủ giấc và thư giãn tâm trí",
+            "Tham gia thiền, yoga để cân bằng cảm xúc",
+            "Chăm sóc đôi chân kỹ lưỡng"
+        ]
+    },
+    "diem_manh_yeu": {
+        "diem_manh": [
+            "Giàu lòng trắc ẩn",
+            "Sáng tạo",
+            "Lãng mạn"
+        ],
+        "diem_yeu": [
+            "Thiếu thực tế",
+            "Dễ bị tổn thương",
+            "Dễ bị người khác thao túng"
+        ]
+    },
+    "may_man": {
+        "mau_sac": [
+            "Xanh biển",
+            "Tím nhạt",
+            "Hồng pastel"
+        ],
+        "da_hop_menh": [
+            "Ngọc trai",
+            "Thạch anh tím",
+            "Ametrine"
+        ],
+        "so_may_man": [
+            3,
+            7,
+            12
+        ]
+    }
+  }
+]

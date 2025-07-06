@@ -1,0 +1,23 @@
+{
+  "nam": 2025,
+  "tong_quan": "Năm 2025 (Ất Tỵ) mở ra nhiều cơ hội phát triển cho người tuổi Tý, song cũng đi kèm không ít thách thức. Đây là năm bạn cần phát huy sự kiên nhẫn, linh hoạt và chủ động trong mọi quyết định quan trọng.",
+  "tuoi": "Tuổi Tý - Ất Tỵ",
+  "suc_khoe": "Cần chú trọng đến sức khỏe tim mạch và hệ tiêu hóa. Hạn chế căng thẳng kéo dài, duy trì chế độ sinh hoạt lành mạnh và ngủ đủ giấc để tăng cường thể trạng.",
+  "tai_loc": "Tài chính nhìn chung ổn định, đặc biệt có cơ hội cải thiện thu nhập từ giữa năm trở đi. Tuy nhiên, hãy cân nhắc kỹ lưỡng trước khi thực hiện các khoản đầu tư có mức độ rủi ro cao.",
+  "su_nghiep": "Công việc có nhiều dấu hiệu khởi sắc, đặc biệt nếu bạn biết tận dụng thời điểm và kết nối đúng người. Tuy vậy, nên thận trọng khi muốn thay đổi vị trí hoặc chuyển hướng nghề nghiệp đột ngột.",
+  "tinh_cam": "Người độc thân có cơ hội gặp gỡ người phù hợp thông qua các mối quan hệ bạn bè. Người đã lập gia đình nên tăng cường giao tiếp, tránh hiểu lầm không đáng có và dành nhiều thời gian chia sẻ cùng nhau.",
+  "thang_tot": ["Tháng 4 âm lịch", "Tháng 8 âm lịch", "Tháng 12 âm lịch"],
+  "thang_xau": ["Tháng 3 âm lịch", "Tháng 7 âm lịch", "Tháng 10 âm lịch"],
+  "ngay_tot": ["Mùng 1", "Mùng 6", "14", "22", "25 âm lịch"],
+  "ngay_dep": {
+    "cuoi_hoi": ["Mùng 8 tháng 2", "16 tháng 4", "12 tháng 6", "24 tháng 8", "10 tháng 11 âm lịch"],
+    "khai_truong": ["Mùng 4 tháng Giêng", "Mùng 6 tháng Giêng", "12 tháng 3", "18 tháng 5", "26 tháng 9 âm lịch"]
+  },
+  "khong_nen_lam": [
+    "Tránh đầu tư mạo hiểm trong tháng 3 và tháng 7 âm lịch.",
+    "Không nên tranh chấp pháp lý, ký kết hợp đồng quan trọng vào tháng 10 âm lịch.",
+    "Hạn chế đi xa hoặc thay đổi công việc đột ngột vào thời điểm đầu năm."
+  ],
+  "loi_khuyen": "Giữ vững tinh thần tích cực, luôn lắng nghe trực giác và linh hoạt điều chỉnh kế hoạch khi cần thiết. Tận dụng thời điểm thuận lợi để tạo bứt phá nhưng đừng vội vàng.",
+  "gio_tot": "Giờ Thìn (7h-9h), giờ Ngọ (11h-13h), giờ Dậu (17h-19h)"
+}
